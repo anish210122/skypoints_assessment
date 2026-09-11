@@ -1,0 +1,54 @@
+[
+  {
+    "member_id": "223457",
+    "member_name": "Elena",
+    "enrollment_date": "20101012",
+    "flight_date": "20240113",
+    "tier_code": "GLD",
+    "agent_name": "Sam",
+    "state": "CA",
+    "country": "USA",
+    "post_code": "90001",
+    "dob": "03051985",
+    "is_active": "A"
+  },
+  {
+    "member_id": "223458",
+    "member_name": "Ravi",
+    "enrollment_date": "20101012",
+    "flight_date": "20121013",
+    "tier_code": "SLV",
+    "agent_name": "Sam",
+    "state": "TN",
+    "country": "IND",
+    "post_code": "60001",
+    "dob": "3051985",
+    "is_active": "A"
+  },
+  {
+    "member_id": "2256",
+    "member_name": "Jacob",
+    "enrollment_date": "20101012",
+    "flight_date": "20240210",
+    "tier_code": "SLV",
+    "agent_name": "Sam",
+    "state": "VIC",
+    "country": "AUS",
+    "post_code": "3000",
+    "dob": "03051985",
+    "is_active": "A"
+  },
+  {
+    "member_id": "223458",
+    "member_name": "Ravi",
+    "enrollment_date": "20101012",
+    "flight_date": "20240215",
+    "tier_code": "GLD",
+    "agent_name": "Sam",
+    "state": "NY",
+    "country": "USA",
+    "post_code": "10001",
+    "dob": "03051985",
+    "is_active": "A"
+  }
+]

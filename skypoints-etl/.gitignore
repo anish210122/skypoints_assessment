@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+skypoints.db
+*.sqlite
+*.sqlite3
+.env
